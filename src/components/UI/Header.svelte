@@ -21,5 +21,5 @@
 </style>
 
 <header>
-    <h1>Servus Toronto</h1>
+    <h1>Social Inclusive</h1>
 </header>
