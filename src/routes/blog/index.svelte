@@ -7,7 +7,7 @@
 </script>
 
 <script>
-	export let posts;
+    export let posts;
 </script>
 
 <style>
