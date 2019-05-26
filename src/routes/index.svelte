@@ -15,7 +15,7 @@
             id: key
           });
         }
-        return {fetchedMeetups: loadedMeetups};
+        return {fetchedMeetups: loadedMeetups.reverse()};
         // isLoading = false;
         // meetups.setMeetups(loadedMeetups.reverse());
       })
@@ -146,8 +146,7 @@ onDestroy(() => {
           email={meetup.contactEmail}
           address={meetup.address}
           isFav={meetup.isFavorite}
-          on:showdetails
-          on:edit />
+          on:edit={startEdit} />
       </div>
     {/each}
   </section>
