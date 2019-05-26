@@ -21,5 +21,5 @@
 </style>
 
 <header>
-    <h1>Progressive</h1>
+    <h1>Progress</h1>
 </header>
