@@ -21,5 +21,5 @@
 </style>
 
 <header>
-    <h1>Social Inclusive</h1>
+    <h1>Progressive</h1>
 </header>
